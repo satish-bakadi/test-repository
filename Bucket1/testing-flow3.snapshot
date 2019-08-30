@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "bffe01cc-7622-3f41-88df-77686a05e207",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "testing-flow3",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 1191.482437180678,
+      "y" : 3152.8945468267843
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
