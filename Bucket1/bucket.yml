@@ -3,5 +3,7 @@ flows:
     author: anonymous, created: 1567176119665, flowName: testing-flow3, flowDesc: ''}
   fd2e5d8e-378d-4b30-ac22-2f5619cca6ba: {ver: 1, file: testing-flow4.snapshot, comments: '',
     author: anonymous, created: 1567176206560, flowName: testing-flow4, flowDesc: ''}
+  e3b1185c-eb57-429c-8c93-3fc89e82170e: {ver: 1, file: testing-flow5.snapshot, comments: '',
+    author: anonymous, created: 1567176246418, flowName: testing-flow5, flowDesc: ''}
 layoutVer: 1
 bucketId: 43f56715-d850-4686-9e11-2c1ad70e074f
